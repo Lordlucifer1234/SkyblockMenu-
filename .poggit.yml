@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Lordlucifer1234/SkyblockMenu-
+build-by-default: true
+branches:
+- main
+projects:
+  SkyblockMenu-:
+    path: ""
+...
